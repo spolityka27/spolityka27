@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I throw with my left hand
+- ⚡ Fun fact: I throw with my left hand and write with my right
 
 <!---
 spolityka27/spolityka27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
