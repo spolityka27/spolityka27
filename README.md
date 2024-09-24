@@ -2,8 +2,6 @@
 - 👀 I’m interested in working out, reading, and playing chess
 - 🌱 I’m currently learning how to use this website
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I throw with my left hand and write with my right
 
 <!---
